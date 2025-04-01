@@ -4,7 +4,7 @@ Crawford IT is a trusted **[IT Company Adelaide](https://www.crawfordit.com.au/)
 <html>
 <body>
 <!--StartFragment--><google-sheets-html-origin><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
-<img src="https://www.crawfordit.com.au/wp-content/uploads/2022/06/about-image.jpg" alt="Professional team at Crawford IT A leading IT company in Adelaide delivering expert IT solutions."/>
+<img src="https://www.crawfordit.com.au/wp-content/uploads/2024/08/crawfordit-greensign.jpg" alt="Crawford IT logo – A leading IT company in Adelaide providing expert technology solutions."/>
 
 <!--EndFragment-->
 </body>
